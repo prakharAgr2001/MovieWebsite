@@ -1,5 +1,8 @@
+
+![Demo](./images/ezgif.com-video-to-gif(1).gif)
 # MovieWebsite
 Movix
+
 Movix is a dynamic and responsive movie application built using React JS, Redux, React Router DOM, and Sass. It integrates with the TMDB (The Movie Database) API to provide users with access to a vast collection of movies, TV shows, and more. The application incorporates features like infinite scrolling and a loading skeleton to enhance the user experience.
 
 Features
