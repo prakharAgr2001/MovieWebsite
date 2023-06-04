@@ -1,5 +1,5 @@
 
-![Demo](./images/ezgif.com-video-to-gif(1).gif)
+![Demo](/images/gif.gif)
 # MovieWebsite
 Movix
 
